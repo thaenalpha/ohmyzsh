@@ -1,0 +1,10 @@
+#!/usr/bin/env zsh
+alias cmd=cmd.exe
+alias wg=winget.exe
+alias ch=choco.exe
+alias pwsh=pwsh.exe
+alias wpwsh=powershell.exe
+alias explorer=explorer.exe
+alias mse=msedge.exe
+alias ff=firefox-nightly.exe
+alias code=code-insiders
