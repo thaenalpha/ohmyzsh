@@ -11,5 +11,5 @@ alias mse=msedge.exe
 alias ff=firefox-nightly.exe
 alias code=code-insiders
 alias np=notepad.exe
-alias npc="np $USERPROFILE/clip"
+alias npc='cmd /c notepad %userprofile%\\clip'
 alias ec="e $USERPROFILE/clip"
