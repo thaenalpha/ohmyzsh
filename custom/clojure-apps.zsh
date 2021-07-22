@@ -1,3 +1,3 @@
-randpm() {(~/randpm && clojure -M:rand-pm)}
-rand-poshthemes() {(~/randpm && clojure -M:rand-ompth)}
-rand-ua() {(~/randpm && clojure -X:rand-ua)}
+randpm() {(~/randpm && bb clojure -M:rand-pm)}
+rand-poshthemes() {(~/randpm && bb clojure -M:rand-ompth)}
+rand-ua() {(~/randpm && bb clojure -X:rand-ua)}
