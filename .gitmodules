@@ -1,3 +1,6 @@
 [submodule "powerlevel10k"]
 	path = custom/themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
+[submodule "plugins/zsh-autopair"]
+	path = plugins/zsh-autopair
+	url = https://github.com/hlissner/zsh-autopair
