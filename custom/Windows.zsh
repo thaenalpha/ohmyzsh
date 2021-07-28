@@ -13,3 +13,4 @@ alias code=code-insiders
 alias np=notepad.exe
 alias npc='cmd /c notepad %userprofile%\\clip'
 alias ec="e $USERPROFILE/clip"
+alias browse=wslview
