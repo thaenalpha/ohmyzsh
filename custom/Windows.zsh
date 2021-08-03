@@ -14,3 +14,4 @@ alias np=notepad.exe
 alias npc='cmd /c notepad %userprofile%\\clip'
 alias ec="e $USERPROFILE/clip"
 alias browse=wslview
+alias wu="wpwsh WindowsUpdate" #Add path first `wpwsh cmd /c '"$env:OneDrive\Documents\WindowsPowerShell\Scripts;$(genv Path user)"'`
