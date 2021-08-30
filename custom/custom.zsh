@@ -6,3 +6,4 @@ alias zshrc="e ~/.zshrc"
 alias omz="e ~/.oh-my-zsh"
 alias av=alias_value
 alias zc="e $ZSH_CUSTOM"
+alias open=xdg-open
