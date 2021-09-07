@@ -8,6 +8,7 @@ alias pwsh=pwsh.exe
 alias wpwsh=powershell.exe
 alias explorer=explorer.exe
 alias mse=msedge.exe
+alias 1d='cmd /c "C:\Program Files\Microsoft OneDrive\OneDrive.exe"'            │
 alias ff="/mnt/c/Program\ Files/Firefox\ Nightly/firefox.exe"
 alias code=code-insiders
 alias np=notepad.exe
