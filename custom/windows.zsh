@@ -16,3 +16,4 @@ alias npc='cmd /c notepad %userprofile%\\clip.txt'
 alias ec="copyfile $USERPROFILE/clip.txt"
 alias browse=wslview
 alias wu="wpwsh sudo WindowsUpdate" #Add path first `wpwsh cmd /c setx Path '"$env:OneDrive\Documents\WindowsPowerShell\Scripts;$(genv Path user)"'`
+alias wpfw="wpwsh sudo WSL2-PORT-FORWARDING"
