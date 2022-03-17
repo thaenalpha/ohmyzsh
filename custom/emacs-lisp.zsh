@@ -5,3 +5,5 @@
 # sleep 10; alert
 alias alert='eeval "(nyan-start-music)"' # sound from Nyan Mode
 alias alert-stop='eeval "(nyan-stop-music)"' # require Nyan Mode pkg
+
+alias dua='doom up -p;alert'
